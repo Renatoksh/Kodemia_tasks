@@ -1,0 +1,187 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.france {
+    /*border: 1px solid black;*/
+    width: 50%;
+    height: 250px;
+    margin: 10px;
+}
+
+.blue{
+    /*border: 1px solid black;*/
+    width: 33.33%;
+    height: 250px;
+    background-color: #001489;
+    display: inline-block;
+    margin: 0 auto;
+}
+.white_f{
+    /*border: 1px solid black;*/
+    display: inline-block;
+    width: 33.33%;
+    height: 250px;
+    background-color: white;
+}
+
+.red{
+    /*border: 1px solid black;*/
+    display: inline-block;
+    width: 33.33%;
+    height: 250px;
+    background-color: #ED2939;
+}
+
+.germany{
+    /*border: 1px solid black;*/
+    width: 50%;
+    height: 250px;
+    margin: 10px;
+}
+
+.black{
+    /*border: 1px solid black;*/
+    width: 33.33%;
+    height: 250px;
+    background-color: #000000;
+    display: inline-block;
+    margin: 0 auto;
+}
+.red_germany{
+    /*border: 1px solid black;*/
+    display: inline-block;
+    width: 33.33%;
+    height: 250px;
+    background-color: #dd0000;
+}
+
+.yellow{
+    /*border: 1px solid black;*/
+    display: inline-block;
+    width: 33.33%;
+    height: 250px;
+    background-color: #ffce00;
+}
+
+.mexico{
+    /*border: 1px solid black;*/
+
+    width: 50%;
+    height: 250px;
+    margin: 10px;
+}
+.green_mx{
+    /*border: 1px solid black;*/
+
+    width: 33.333%;
+    height: 250px;
+    background-color: #006847 ;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+.white_mx{
+    /*border: 1px solid black;*/
+
+    width: 33.333%;
+    height: 250px;
+    background-color: #ffffff;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+#eagle{
+    /*border: 1px solid black;*/
+
+    width: 130px;
+    height: 130px;       
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40%;
+}
+
+.red_mx{
+    /*border: 1px solid black;*/
+
+    display: inline-block;
+    width: 33.333%;
+    height: 250px;
+    background-color: #C8102E;
+    margin: 0 auto;
+}
+
+.japon{
+    /*border: 1px solid black;*/
+
+    width: 50%;
+    height: 250px;
+    margin: 10px;
+}
+
+.withe_jp{
+    /*border: 1px solid black;*/
+
+    display: inline-block;
+    width: 33.333%;
+    height: 250px;
+    background-color: #ffffff;
+    margin: 0 auto;
+}
+
+#circle_jp{
+    /*border: 1px solid black;*/
+
+    width: 180px;
+    height: 180px;       
+}
+
+.center_jp{
+    display: block;
+    margin-left: -13%;
+    margin-right: 30%;
+    margin-top: 25%;
+}
+
+.withe_jp{
+    /*border: 1px solid black;*/
+
+    display: inline-block;
+    width: 33.333%;
+    height: 250px;
+    background-color: #ffffff;
+    margin: 0 auto;
+    
+}
+
+.withe_jp{
+    /*border: 1px solid black;*/
+
+    display: inline-block;
+    width: 33.333%;
+    height: 250px;
+    background-color: #ffffff;
+    margin: 0 auto;
+}
+
+.england{
+    /*border: 1px solid black;*/
+
+    width: 50%;
+    height: 250px;
+    margin: 10px;
+}
+
+#cross_eng{
+        /*border: 1px solid black;*/
+
+        width: 442px;
+        height: 250px;  
+}
+

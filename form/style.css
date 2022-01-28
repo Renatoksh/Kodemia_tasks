@@ -1,0 +1,62 @@
+body{
+    font-family: 'Dongle', sans-serif;
+    background: linear-gradient(#c0c0c0, white);
+}
+.container{
+    /*border: 1px solid black;*/
+
+    color: rgb(29, 29, 122);
+    width: 95%;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    justify-content: right;
+    align-items: right;
+
+}
+
+h3{
+    font-size:30px;
+}
+
+h4{
+    font-size: 20px;
+}
+
+.form{
+    /* border: 1px solid black;*/
+
+    background: linear-gradient(#b6c2da, white);
+    border-radius: 5px;
+    width: 400px;
+    margin: 0 auto;
+    text-align: right;
+    padding: 0 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.label{
+    width: 50px;
+    height: 15px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+.button{
+    width: fit-content;
+    padding: 9px;
+}
+
+#btn{
+    color: rgb(255, 255, 255);
+    font-style: bold;
+    font-size: 15px;
+    background: rgb(97, 201, 97);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+

@@ -1,0 +1,62 @@
+body{
+    background: linear-gradient(#ffffff, rgb(255, 255, 255));
+}
+
+.container{
+    /*border: 1px solid black;*/
+
+    color: rgb(43, 43, 44);
+    width: 95%;
+    height: 100vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.name {
+    display: flex;
+    justify-content: right;
+}
+
+.job{
+    color: rgb(92, 92, 92);
+    display: flex;
+    justify-content: right;
+}
+
+#techskills{
+    display: flex;
+    justify-content: left;
+    align-items: left;
+}
+#softskills{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#improvingnow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.form{
+    /*border: 1px solid black;*/
+
+    background: linear-gradient(#ebebeb, white);
+    border-radius: 5px;
+    width: 50%;
+    height: auto;
+    margin: auto;
+    padding: 0 20px;
+}
+
+footer{
+    color: rgb(104, 104, 104);
+    display: flex;
+    justify-content: right;
+}
